@@ -48,8 +48,8 @@ author: xusen
       url:
 home:
   section1: <h1>xusenme's Home</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section2: <div class="social-links"><a class="ico-github btn" href="https://github.com/xusenme" title="View xusenme's GitHub"></a></div>
+  section3:<h2>QQ:956532577</h2>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
