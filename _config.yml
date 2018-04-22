@@ -25,7 +25,7 @@ url: https://xusenme.github.io # the base hostname & protocol for your site, e.g
 baseurl: # the subpath of your site, e.g. /blog
 title: xusenme
 description: "xusenme的博客."
-keywords: 'jekyll,theme,gem-based,blog'
+keywords: 'jekyll,theme,gem-based,blog,xusen,xusenme'
 author:
   name:
   job_title:
