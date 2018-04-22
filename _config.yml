@@ -26,7 +26,7 @@ baseurl: # the subpath of your site, e.g. /blog
 title: xusenme
 description: "xusenme的博客."
 keywords: 'jekyll,theme,gem-based,blog'
-author: xusen
+author:
   name:
   job_title:
   location:
