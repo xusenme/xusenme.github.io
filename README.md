@@ -8,8 +8,7 @@ which can also be forked as a boilerplate for older versions of Jekyll.
 ## Demo
 
 - Starter-kit demo:
-<https://yizeng.github.io/jekyll-theme-simple-texture/>
-- My own personal blog: <http://yizeng.me/blog>
+<https://github.com/xusenme/>
 
 ![Screenshot - Home](assets/images/screenshots/home.png)
 
